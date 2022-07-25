@@ -36,7 +36,9 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 ## Screenshots
-![alt tag]( "screenshot")
+![alt tag](https://user-images.githubusercontent.com/99215212/180887535-c221ffff-ad19-4e8d-89e5-94712c3b489b.png "screenshot")
+
+![alt tag](https://user-images.githubusercontent.com/99215212/180887569-c26bbfa6-f3e2-460c-abf1-6c1c508860eb.png "screenshot")
 
 ## Links
 * https://github.com/lnbredemeyer/Text-Editor-H19
