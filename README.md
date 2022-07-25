@@ -40,6 +40,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Links
 * https://github.com/lnbredemeyer/Text-Editor-H19
+* https://lnbredemeyer.github.io/Text-Editor-H19/
 * https://pwa-homework-text-editor-h19.herokuapp.com
 
 ## Author
